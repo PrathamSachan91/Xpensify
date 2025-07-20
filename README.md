@@ -49,7 +49,7 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 | Database  | MySQL (Remote via Hostinger)  |
 | Auth      | JWT Tokens                    |
 | Charts    | Chart.js                      |
-| Hosting   | Render (frontend), Hostinger (DB) |
+| Hosting   | Render (Pending) |
 
 ---
 
