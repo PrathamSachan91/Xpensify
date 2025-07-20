@@ -12,6 +12,7 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 
 ### 🔐 User Authentication
 - Register and login using secure JWT-based authentication.
+- Multiple user support
 
 ### 🔎Pagination
 - Efficiently handles large datasets by displaying data in manageable chunks.
