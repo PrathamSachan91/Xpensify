@@ -2,9 +2,9 @@
 
 Xpensify is a full-stack web application that helps users efficiently manage their personal finances by tracking **income**, **expenses**, **budgets**, and analyzing financial trends with interactive visualizations.
 
-📹 [Demo Video](https://www.youtube.com/watch?v=YtK8LVXs1nQ)
+📹 [Demo Video](https://youtu.be/WMwRtPs4lRc)
 
-[![Watch the demo](https://i9.ytimg.com/vi_webp/YtK8LVXs1nQ/mq3.webp?sqp=CIC79cMG&rs=AOn4CLBj5yDVCg29BEcS7h73LfK9ZypWKw)](https://www.youtube.com/watch?v=YtK8LVXs1nQ)
+[![Watch the demo](https://i9.ytimg.com/vi_webp/WMwRtPs4lRc/mqdefault.webp?v=687d6872&sqp=CIzQ9cMG&rs=AOn4CLC2cSzNzUDMECCeL9neXWe04_EwDg)](https://youtu.be/WMwRtPs4lRc)
 
 ---
 
@@ -12,6 +12,10 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 
 ### 🔐 User Authentication
 - Register and login using secure JWT-based authentication.
+
+### 🔎Pagination
+- Efficiently handles large datasets by displaying data in manageable chunks.
+- Enhances user experience by enabling quick navigation between pages.
 
 ### 💰 Income Tracker
 - Add multiple income sources (salary, freelancing, etc.).
@@ -62,7 +66,7 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 ---
 ## 📸 Screenshots
 
-| Dashboard  | Dashboard  | Dashboard  | Dashboard  |
+| Dashboard  | Dashboard  | Pagination | Dashboard  |
 |-------------|-------------|-------------|-------------|
 | <img src="ScreenShot/dash1.png" width="200"/> | <img src="ScreenShot/dash2.png" width="200"/> | <img src="ScreenShot/dash3.png" width="200"/> | <img src="ScreenShot/dash4.png" width="200"/> |
 
