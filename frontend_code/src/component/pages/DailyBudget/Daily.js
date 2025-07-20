@@ -81,7 +81,7 @@ const DailyBudget = () => {
     <div className={theme === "dark" ? "dark" : ""}>
       <div className="flex flex-col min-h-screen bg-gray-50 dark:bg-gray-900">
         {/* Header */}
-        <header className="bg-red-600 dark:bg-red-700 text-white text-2xl font-bold py-4 px-6 shadow-md tracking-wide flex justify-between items-center">
+        <header className="bg-emerald-600 dark:bg-emerald-700 text-white text-2xl font-bold py-4 px-6 shadow-md tracking-wide flex justify-between items-center">
           <div className="flex items-center gap-3">
             <img
               src={logo}
