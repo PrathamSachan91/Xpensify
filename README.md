@@ -2,7 +2,9 @@
 
 Xpensify is a full-stack web application that helps users efficiently manage their personal finances by tracking **income**, **expenses**, **budgets**, and analyzing financial trends with interactive visualizations.
 
-📹 [Demo Video]([#](https://www.youtube.com/watch?v=YtK8LVXs1nQ))
+📹 [Demo Video](https://www.youtube.com/watch?v=YtK8LVXs1nQ)
+
+[![Watch the demo](https://i9.ytimg.com/vi_webp/YtK8LVXs1nQ/mq3.webp?sqp=CIC79cMG&rs=AOn4CLBj5yDVCg29BEcS7h73LfK9ZypWKw)](https://www.youtube.com/watch?v=YtK8LVXs1nQ)
 
 ---
 
