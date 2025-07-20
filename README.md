@@ -58,7 +58,17 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 - Fallback API available for expense creation without receipt upload.
 
 ---
+## 📸 Screenshots
 
+| Dashboard  | Dashboard  | Dashboard  | Dashboard  |
+|-------------|-------------|-------------|-------------|
+| <img src="ScreenShot/dash1.png" width="200"/> | <img src="ScreenShot/dash2.png" width="200"/> | <img src="ScreenShot/dash3.png" width="200"/> | <img src="ScreenShot/dash4.png" width="200"/> |
+
+| Income | Expense| Expense | Daily Budget |
+|--------------|--------------|--------------|--------------|
+| <img src="ScreenShot/Screenshot 2025-07-20 233522.png" width="200"/> | <img src="ScreenShot/Screenshot 2025-07-21 001602.png" width="200"/> | <img src="ScreenShot/Screenshot 2025-07-21 001627.png" width="200"/> | <img src="ScreenShot/Screenshot 2025-07-21 003616.png" width="200"/> |
+
+---
 ## 📁 Project Structure
 ```bash
 xpensify/
