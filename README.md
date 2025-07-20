@@ -38,14 +38,6 @@ Xpensify is a full-stack web application that helps users efficiently manage the
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard | Income Form | Expense with Receipt |
-|-----------|-------------|----------------------|
-| ![](screenshots/dashboard.png) | ![](screenshots/add-income.png) | ![](screenshots/receipt.png) |
-
----
-
 ## 🛠 Tech Stack
 
 | Category  | Tech                          |
